@@ -8,28 +8,15 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 
-Your Project
+Tercino project
 ------------
+This is totally customized code that takes an Excel file, fix some stuff (remove line endings inside fields etc.).
+Then it is converted to .csv and downloaded automatically.
+It can be easily reused for another Excel file transformations by adding them to the code and adding a JSON configuration file (consisting of order and name of columns, type of tranformation..).
 
-### ← README.md
+https://dour-cliff-snowdrop.glitch.me/
+with code: https://glitch.com/~dour-cliff-snowdrop
 
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
 
 Made by [Glitch](https://glitch.com/)
 -------------------
