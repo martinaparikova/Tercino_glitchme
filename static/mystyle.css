@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 12px;
+  font-family: Tahoma;
+  color:#cc0066;
+  margin:15px;
+}
+
+img{
+  margin-left: 20px;
+  margin-right: auto;
+  height:40%;
+  box-shadow: 5px 5px 5px grey;
+
+}
+.button {
+  font-family: Tahoma;
+  height:45px;
+}
+
+.submit{
+  background-color:#FFB6C1;
+}
+
+.reset{
+  background-color:#A9A9A9;
+}
+
+.input_window {
+  border-style:solid;
+  border-color:gray;
+  border-radius: 10px;
+  padding:10px;
+  margin:15px;
+  background-color:#F0FFFF;
+  box-shadow: 5px 5px 5px grey;
+  width:400px;
+}
+
+.text{
+ font-family: Tahoma;
+ color:gray;
+ margin:15px;
+}
